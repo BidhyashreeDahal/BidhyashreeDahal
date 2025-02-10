@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BidhyashreeDahal
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning C#, javaScript, Cobol.
-- 📫 How to reach me : bidhyshreedahal11@gmail.com
+- 📫 How to reach me : bidhyashreedahal11@gmail.com
 - ⚡ Fun fact: I like Spiders.
 
 <!---
