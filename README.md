@@ -74,8 +74,7 @@
 
 ## 🏆 Trophies
 <div align="center">
-  <img alt="GitHub Trophies"
-       src="https://github-profile-trophy.vercel.app/?username=BidhyashreeDahal&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BidhyashreeDahal&theme=dracula&no-frame=true&no-bg=true&margin-w=8" />
 </div>
 
 ---
