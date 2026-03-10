@@ -86,13 +86,11 @@
 
 ---
 
+---
+
 ## 📊 Most Used Languages
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact)
 
 # 📈 Contribution Graph
 
