@@ -26,7 +26,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Software+Developer;Turning+Ideas+Into+Software;I+love+building+clean%2C+scalable+systems"/>
 </p>
----
 
 ## 👋 About Me
 
@@ -90,6 +89,18 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BidhyashreeDahal&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BidhyashreeDahal&theme=react-dark&hide_border=true&area=true"/>
@@ -97,5 +108,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,100:2563EB"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,100:2563EB"/>
+
 </div>
