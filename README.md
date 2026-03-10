@@ -1,27 +1,25 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8A2BE2&text=Bidhyashree%20Dahal&fontAlign=50&fontAlignY=35&fontSize=48&desc=Full‑Stack%20Developer%20•%20Cloud%20Learner%20•%20AI%20Enthusiast&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=9b59b6&text=Bidhyashree%20Dahal&fontAlign=50&fontAlignY=35&fontSize=48&desc=Software%20Developer%20•%20Curious%20Learner%20•%20Builder&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
 </div>
 
 <!-- Social + Counters -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bidhyashree-dahal/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/BidhyashreeDahal?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/BidhyashreeDahal?style=for-the-badge&color=8A2BE2&label=Followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/BidhyashreeDahal?style=for-the-badge&color=9b59b6&label=Followers">
   </a>
   <a href="https://github.com/BidhyashreeDahal">
-    <img alt="Stars" src="https://img.shields.io/github/stars/BidhyashreeDahal?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6f42c1&label=Stars">
+    <img alt="Stars" src="https://img.shields.io/github/stars/BidhyashreeDahal?style=for-the-badge&color=8e44ad&label=Stars">
   </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=BidhyashreeDahal&style=for-the-badge&color=8A2BE2">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=BidhyashreeDahal&style=for-the-badge&color=9b59b6">
 </p>
 
 <!-- Typing Tagline -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=I+build+clean%2C+secure%2C+scalable+systems.;Full-Stack+Developer+%7C+Cloud+Learner+%7C+AI+Enthusiast" alt="Typing SVG" />  
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9b59b6&center=true&vCenter=true&width=800&lines=Software+Developer;Curious+Learner;I+love+building+clean%2C+scalable+systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,7 +27,7 @@
 ## 👋 About Me
 - 🎓 Computer Programming & Analysis student at Durham College  
 - 💡 Passionate about full‑stack development, cloud, and automation  
-- 🔭 Currently building **Alumni Connect** — a full‑stack Student & Alumni Relationship Management system  
+- 🔭 Building **Alumni Connect** — a full‑stack Student & Alumni Relationship Management system  
 - 🛰️ Exploring space data visualization through **SpaceScope**  
 - 🤝 Open to collaborating on **full‑stack apps**, **AI tools**, and **developer productivity projects**  
 - ⚡ Fun fact: I’m originally from Nepal and I’m fascinated by spiders 🕷️  
@@ -85,28 +83,25 @@
 ## 🏆 Trophies
 <div align="center">
   <img alt="GitHub Trophies"
-       src="https://github-profile-trophy.vercel.app/?username=BidhyashreeDahal&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+       src="https://github-profile-trophy.vercel.app/?username=BidhyashreeDahal&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="160" alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
-      </td>
-    </tr>
-  </table>
 
+  <!-- Top Languages -->
+  <img height="160" alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+
+  <!-- Activity Graph -->
   <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=BidhyashreeDahal&theme=react-dark&hide_border=true&area=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=BidhyashreeDahal&theme=dracula&hide_border=true&area=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:6f42c1&fontColor=ffffff" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9b59b6,100:8e44ad&fontColor=ffffff" alt="footer" />
 </div>
