@@ -90,15 +90,6 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="160" alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&hide=html,css&theme=github_dark" />
-      </td>
-    </tr>
-  </table>
 
   <!-- Activity Graph (streaks intentionally omitted) -->
   <img alt="Activity Graph"
