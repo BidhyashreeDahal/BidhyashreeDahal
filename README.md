@@ -33,26 +33,16 @@
 - 🚀 Previously built **MoneyMate** – a full-stack financial tracking platform
 - ⚡ Fun fact: Originally from **Nepal 🇳🇵** and fascinated by **spiders 🕷️**
 
----
-
-## 📚 Currently Learning
-
-- System architecture fundamentals  
-- Designing scalable backend APIs  
-- Distributed systems concepts  
 
 ---
 
 ## 🚀 Top Projects
 
-**MoneyMate**  
-Full-stack personal finance platform for budgeting and transaction tracking.
+MoneyMate - Full-stack personal finance platform for budgeting and transaction tracking.
 
-**Alumni Connect**  
-Student & Alumni Relationship Management system with role-based access.
+Alumni Connect - Student & Alumni Relationship Management system with role-based access.
 
-**SpaceScope**  
-Visualization tools for space data and exploration.
+SpaceScope - Visualization tools for space data and exploration.
 
 ---
 
