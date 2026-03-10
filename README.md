@@ -90,12 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=BidhyashreeDahal&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BidhyashreeDahal&theme=react-dark&hide_border=true&area=true"/>
