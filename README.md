@@ -38,7 +38,7 @@ https://nirzak-streak-stats.vercel.app/?user=BidhyashreeDahal&theme=tokyonight&h
 https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&theme=tokyonight&hide_border=false&layout=compact
 
 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=BidhyashreeDahal&theme=radical&no-frame=false&no-bg=true&margin-w=4
+https://github-profile-trophy.vercel.app/?username=BidhyashreeeDahal&theme=radical&no-frame=false&no-bg=true&margin-w=4
 
 👀 Profile Views
 https://visitcount.itsvg.in/api?id=BidhyashreeDahal&icon=9&color=13
