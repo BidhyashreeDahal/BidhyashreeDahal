@@ -74,7 +74,7 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&theme=dracula&hide_border=true&count_private=true)
 
 ---
 
