@@ -90,7 +90,8 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BidhyashreeDahal&layout=compact)
+<img height="160"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
 
 # 📈 Contribution Graph
