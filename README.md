@@ -30,7 +30,16 @@
 - 💡 Interested in **backend systems, full-stack development, and scalable applications**
 - 🔭 Currently building **Alumni Connect** – a Student & Alumni Relationship Management system
 - 🛰️ Working on **SpaceScope** – exploring space data and visualization
+- 🚀 Previously built **MoneyMate** – a full-stack financial tracking platform
 - ⚡ Fun fact: Originally from **Nepal 🇳🇵** and fascinated by **spiders 🕷️**
+
+---
+
+## 🚀 Top Projects
+
+- **MoneyMate** – Full-stack personal finance platform with budgeting and transaction tracking  
+- **Alumni Connect** – Student & Alumni Relationship Management system with role-based access  
+- **SpaceScope** – Visualization tools for space data and exploration 
 
 ---
 
@@ -67,6 +76,20 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
+</p>
+
+<!-- Dev Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-6a11cb?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-2575fc?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>&nbsp;
+</p>
+
+<!-- Cloud -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
 </p>
 
 ---
