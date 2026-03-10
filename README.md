@@ -19,7 +19,7 @@
 
 <!-- Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9333EA&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Systems+Builder;I+love+building+clean%2C+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9333EA&center=true&vCenter=true&width=800&lines=Software+Developer;I+love+building+clean%2C+scalable+systems" alt="Typing SVG" />
 </p>
 
 ---
