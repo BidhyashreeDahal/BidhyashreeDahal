@@ -71,22 +71,27 @@
 </p>
 
 ---
+# 📊 GitHub Stats
 
-## Top Languages
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&theme=dracula&hide_border=true&count_private=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BidhyashreeDahal&show_icons=true&theme=dracula&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&theme=dracula&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BidhyashreeDahal&theme=dracula&hide_border=true&area=true"/>
+
+---
+
 <div align="center">
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=BidhyashreeDahal&theme=dracula&hide_border=true&area=true" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=9b59b6"/>
+</div>
 </div>
 
 ---
