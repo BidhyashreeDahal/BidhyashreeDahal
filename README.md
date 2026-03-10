@@ -1,21 +1,44 @@
-# 💫 About Me:
-I’m currently working on<br><br>Alumni Connect — a full-stack Student & Alumni Relationship Management system designed to help institutions manage alumni engagement and networking<br><br>SpaceScope — a project exploring space data and interactive visualization<br><br>🤝 I’m looking to collaborate on<br><br>Full-stack web applications<br><br>AI-powered tools and developer projects<br><br>⚡ Fun fact<br><br>I’m originally from Nepal and I’m fascinated by spiders 🕷️
+🌟 Hi, I'm Bidhyashree Dahal!
 
+💫 About Me
+🔭 Currently building Alumni Connect — a full‑stack Student & Alumni Relationship Management system
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Bidhyashree) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bidhyashree Dahal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bidhyashreedahal37@gmail.com) 
+🛰️ Exploring space data visualization through SpaceScope
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bidhyashree Dahal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bidhyashree Dahal&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bidhyashree Dahal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🤝 Open to collaborating on full‑stack apps, AI tools, and developer productivity projects
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bidhyashree Dahal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+⚡ Fun fact: I’m originally from Nepal and I’m fascinated by spiders 🕷️
 
----
-[![](https://visitcount.itsvg.in/api?id=Bidhyashree Dahal&icon=9&color=13)](https://visitcount.itsvg.in)
+🌐 Connect With Me
+LinkedIn (https://www.linkedin.com/in/bidhyashree-dahal/) •
+📧 Email: bidhyashreedahal@gmail.com 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💻 Tech Stack
+Languages:  
+C# • Java • Python • JavaScript • TypeScript • Dart • PHP • Kotlin • PowerShell
+
+Frontend:  
+React • Next.js • Vite • Vue • HTML5 • CSS3 • Tailwind • Three.js
+
+Backend:  
+Node.js • Express.js • Laravel • .NET
+
+Databases:  
+MongoDB • MySQL • PostgreSQL • SQLite • Supabase • Redis • Prisma ORM
+
+Cloud & DevOps:  
+AWS • Azure • Docker • GitHub • GitLab • Vercel • Netlify
+
+📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=BidhyashreeDahal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true
+
+https://nirzak-streak-stats.vercel.app/?user=BidhyashreeDahal&theme=tokyonight&hide_border=false
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&theme=tokyonight&hide_border=false&layout=compact
+
+🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=BidhyashreeDahal&theme=radical&no-frame=false&no-bg=true&margin-w=4
+
+👀 Profile Views
+https://visitcount.itsvg.in/api?id=BidhyashreeDahal&icon=9&color=13
