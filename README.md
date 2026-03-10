@@ -1,30 +1,31 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,100:2563EB&text=Bidhyashree%20Dahal&fontAlign=50&fontAlignY=38&fontSize=54&desc=Software%20Developer%20•%20Turning%20Ideas%20Into%20Software&descAlign=50&descAlignY=65&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06B6D4,100:2563EB&text=Bidhyashree%20Dahal&fontAlign=50&fontAlignY=38&fontSize=54&desc=Software%20Developer%20•%20Turning%20Ideas%20Into%20Software&descAlign=50&descAlignY=65&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <!-- Social + Counters -->
 <p align="center">
+
 <a href="https://www.linkedin.com/in/bidhyashree-dahal/">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/BidhyashreeDahal?tab=followers">
-<img src="https://img.shields.io/github/followers/BidhyashreeDahal?style=for-the-badge&color=7C3AED&label=Followers">
+<img src="https://img.shields.io/github/followers/BidhyashreeDahal?style=for-the-badge&color=06B6D4&label=Followers">
 </a>
 
 <a href="https://github.com/BidhyashreeDahal">
 <img src="https://img.shields.io/github/stars/BidhyashreeDahal?style=for-the-badge&color=2563EB&label=Stars">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=BidhyashreeDahal&style=for-the-badge&color=7C3AED">
+<img src="https://komarev.com/ghpvc/?username=BidhyashreeDahal&style=for-the-badge&color=06B6D4">
+
 </p>
 
 <!-- Typing Tagline -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=Software+Developer;Turning+Ideas+Into+Software;I+love+building+clean%2C+scalable+systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Software+Developer;Turning+Ideas+Into+Software;I+love+building+clean%2C+scalable+systems"/>
 </p>
-
 ---
 
 ## 👋 About Me
