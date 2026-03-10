@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=9b59b6&text=Bidhyashree%20Dahal&fontAlign=50&fontAlignY=35&fontSize=48&desc=Software%20Developer%20•%20Systems%20Builder%20•%20Curious%20Learner&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=9b59b6&text=Bidhyashree%20Dahal&fontAlign=50&fontAlignY=35&fontSize=48&desc=Software%20Developer%20•%20Curious%20Learner&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
 </div>
 
 <!-- Social + Counters -->
@@ -28,10 +28,9 @@
 
 - 🎓 Computer Programming & Analysis student at **Durham College**
 - 💡 Interested in **backend systems, full-stack development, and scalable applications**
-- 🔭 Currently building **Alumni Connect** — a Student & Alumni Relationship Management system
-- 🛰️ Working on **SpaceScope** — exploring space data and visualization
-- 🚀 Previously built **MoneyMate** — a full-stack financial tracking platform
-- 🤝 Open to collaborating on **full-stack apps, backend systems, and developer tools**
+- 🔭 Currently building **Alumni Connect** - a Student & Alumni Relationship Management system
+- 🛰️ Working on **SpaceScope** - exploring space data and visualization
+- 🚀 Previously built **MoneyMate** - a full-stack financial tracking platform
 - ⚡ Fun fact: Originally from **Nepal 🇳🇵** and fascinated by **spiders 🕷️**
 
 ---
