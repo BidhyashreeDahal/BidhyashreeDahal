@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:9333EA,50:EC4899,100:3B82F6&text=Bidhyashree%20Dahal&fontAlign=50&fontAlignY=38&fontSize=52&desc=Software%20Developer%20•%20Turning%20Ideas%20Into%20Software&descAlign=50&descAlignY=65&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:9333EA,100:3B82F6&text=Bidhyashree%20Dahal&fontAlign=50&fontAlignY=38&fontSize=52&desc=Software%20Developer%20•%20Turning%20Ideas%20Into%20Software&descAlign=50&descAlignY=65&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <!-- Social + Counters -->
@@ -39,49 +39,49 @@
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/C%23-9333EA?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-9333EA?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Dart-3B82F6?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 <!-- Frontend -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React-9333EA?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-3B82F6?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vite-9333EA?style=for-the-badge&logo=vite&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 <!-- Backend -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-9333EA?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/.NET-3B82F6?style=for-the-badge&logo=dotnet&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 <!-- Databases -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-9333EA?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-9333EA?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Redis-3B82F6?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 <!-- Dev Tools -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Postman-9333EA?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Prisma-3B82F6?style=for-the-badge&logo=prisma&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
 <!-- Cloud -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-9333EA?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-3B82F6?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -93,5 +93,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333EA,50:EC4899,100:3B82F6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333EA,100:3B82F6"/>
 </div>
