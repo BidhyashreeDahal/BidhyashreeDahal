@@ -89,23 +89,22 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="160" alt="Top Languages"
+          src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
+  <!-- Activity Graph (streaks intentionally omitted) -->
+  <img alt="Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=BidhyashreeDahal&theme=react-dark&hide_border=true&area=true" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BidhyashreeDahal&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BidhyashreeDahal&theme=react-dark&hide_border=true&area=true"/>
-
----
 
 <div align="center">
 
