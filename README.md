@@ -19,7 +19,7 @@
 
 <!-- Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9b59b6&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Systems+Builder;I+love+building+clean%2C+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9b59b6&center=true&vCenter=true&width=800&lines=Software+Developer;I+love+building+clean%2C+scalable+systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,7 +30,6 @@
 - 💡 Interested in **backend systems, full-stack development, and scalable applications**
 - 🔭 Currently building **Alumni Connect** - a Student & Alumni Relationship Management system
 - 🛰️ Working on **SpaceScope** - exploring space data and visualization
-- 🚀 Previously built **MoneyMate** - a full-stack financial tracking platform
 - ⚡ Fun fact: Originally from **Nepal 🇳🇵** and fascinated by **spiders 🕷️**
 
 ---
@@ -70,18 +69,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
 </p>
 
----
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BidhyashreeDahal&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&theme=dracula&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
