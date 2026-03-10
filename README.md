@@ -72,11 +72,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## Top Languages
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BidhyashreeDahal&theme=dracula" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyashreeDahal&layout=compact&theme=radical)
 
 ---
 
